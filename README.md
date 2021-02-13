@@ -1,6 +1,6 @@
-# Repositório de estudos da linguagem python
+### Repositório de estudos da linguagem python
 
-## Objetivos:
+##### Objetivos:
 -  Me tornar especialista na linguagem python!
 - Aprender novas lib, funcionalidades e técnicas de programação!
 - Ser referência nessa linguagem!
